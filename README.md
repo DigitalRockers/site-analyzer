@@ -78,14 +78,6 @@ sa.w3cValidation('www.wikipedia.org', function(error, results){
 });
 ```
 
-### ipGeolocalization(domain, callback)
-
-```javascript
-sa.ipGeolocalization(IP), function(error, results){
-	...
-});
-```
-
 ### urlScreenshot(url, options, callback)
 Take screenshot.
 
