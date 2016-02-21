@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "eyes": "~0.1.8",
-    "request": "^2.55.0",
+    "request": "^2.55.0"
   },
   "devDependencies": {
     "mocha": "*",
