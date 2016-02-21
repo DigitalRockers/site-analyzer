@@ -1,6 +1,6 @@
-#Ritetag
+#Site Analyzer
 [![Build Status via Travis CI](https://travis-ci.org/DigitalRockers/site-analyzer.svg?branch=master)](https://travis-ci.org/DigitalRockers/site-analyzer)
-[![NPM version](http://img.shields.io/npm/v/ritetag.svg)](https://www.npmjs.org/package/site-analyzer)
+[![NPM version](http://img.shields.io/npm/v/site-analyzer.svg)](https://www.npmjs.org/package/site-analyzer)
 
 [Site Analyzer](www.site-analyzer.com) api module for [nodejs](nodejs.org)
 
