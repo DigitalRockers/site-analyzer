@@ -3,7 +3,7 @@
   "description": "Site Analyzer api nodejs module",
   "version": "0.1.1",
   "keywords": [
-    "ritetag",
+    "siteanalyzer",
     "api"
   ],
   "bugs": {
